@@ -1,4 +1,6 @@
-uth: Brennan D Baraban
+/*
+ * File: 10-check_cycle.c
+ * Auth: Brennan D Baraban
  */
 
 #include <stdlib.h>
